@@ -1,5 +1,7 @@
 # RealTime_ECommerce_Analytics
 
+[Tutorial](https://www.youtube.com/watch?v=8v3ni5zSNZk)
+
 ![alt text](https://raw.githubusercontent.com/SrikarKanduri/RealTime-ECommerce-Analytics/master/img/architecture.png)
 
 # 1. Stream Data
