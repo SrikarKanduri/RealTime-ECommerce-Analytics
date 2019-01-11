@@ -1,6 +1,6 @@
 # RealTime_ECommerce_Analytics
 
-![alt text](https://raw.github.ncsu.edu/skanama/RealTime_ECommerce_Analytics/master/img/architecture.png?token=AAAioGtSpH0qpW5Ndr0SZ70OJSV6FdACks5cG_4ewA%3D%3D)
+![alt text](https://raw.githubusercontent.com/SrikarKanduri/RealTime-ECommerce-Analytics/master/img/architecture.png)
 
 # 1. Stream Data
 1) Install Mongo 
